@@ -1,7 +1,7 @@
 ## Hi stalker 👋
 
 - 💻 I code in **Java**
-- ☕️ I like **coffee** & **soccer** ⚽️
+- ☕️ I like **chai** & **soccer** ⚽️
 - ❣️ Love **family**/**friends**
 
 - 🌱 Wanna connect?
