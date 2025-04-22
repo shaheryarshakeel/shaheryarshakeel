@@ -1,10 +1,10 @@
 ## Hi stalker 👋
 
 - 💻 I code in **Java**
-- ☕️⚽️ I like **coffee** & **soccer**
+- ☕️ I like **coffee** & **soccer** ⚽️
 - ❣️ Love **family**/**friends**
 
-- Wanna connect?
+- 🌱 Wanna connect?
 
-**LinkedIn** : www.linkedin.com/in/shaheryar-shakeel
-**Gmail** : shaheryarshakeel@gmail.com
+  **LinkedIn** : www.linkedin.com/in/shaheryar-shakeel
+  **Gmail** : shaheryarshakeel@gmail.com
